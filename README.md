@@ -15,4 +15,4 @@ They were then tasked to programme the robot such that it could locate an IR bea
 - How to account for hardware issues such as debouncing and weak motors via the code
 - Being able to present the code and explain the different features within it and justify our decisions to those unfamiliar with the codebase
 
-Note: I also realised how of a pain manual version control is (Evident in the long name of the final project FinalProjectCleanSmoothComplete.c), but didn't know any better at the time ^_^.
+Note: I also realised how much of a pain manual version control is (Evident in the long name of the final project FinalProjectCleanSmoothComplete.c), but didn't know any better at the time since it was the first relatively large project I'd ever completed ^_^.
